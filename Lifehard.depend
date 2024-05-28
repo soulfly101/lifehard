@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709682312 source:c:\users\pc\desktop\game.of.thrones. (2013) season 3 hdtv.x264\lifehard\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1709823240 source:c:\users\pc\desktop\class work\lifehard\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
